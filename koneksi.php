@@ -1,9 +1,9 @@
 <?php
 $koneksi = mysqli_connect 
 			(
-				"10.0.0.40",
+				"10.0.0.141",
 				"admin",
-				"Shafriza123/",
+				"Yuyunnailufar20*",
 				"crud"
 			);
 if (mysqli_connect_errno())
