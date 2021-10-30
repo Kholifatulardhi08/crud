@@ -1,10 +1,10 @@
 <?php
 $koneksi = mysqli_connect 
 			(
-				"10.0.0.141",
-				"admin",
-				"Yuyunnailufar20*",
-				"crud"
+				"10.0.0.123",
+				"uts",
+				"Kholifatulardli08*",
+				"uts"
 			);
 if (mysqli_connect_errno())
 	{
